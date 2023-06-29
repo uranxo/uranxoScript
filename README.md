@@ -124,8 +124,12 @@ My own programming lenguage
 # Sintassi del Linguaggio di Programmazione
 
 1. Dichiarazione delle variabili:
-   - Dichiarazione con tipo esplicito: `tipoVariabile nomeVariabile`
-   - Dichiarazione con assegnazione: `tipoVariabile nomeVariabile = valore`
+   - Dichiarazione con tipo esplicito: `var tipoVariabile nomeVariabile`
+   - Tipi di variabili:
+     - `int ` variabili intere
+     - `dec` variabili decimali
+     - `lect` variabili stringhe
+   - Dichiarazione con assegnazione: `var tipoVariabile nomeVariabile = valore`
 
 2. Operatori aritmetici:
    - Addizione: `+`
