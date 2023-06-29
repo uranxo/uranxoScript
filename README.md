@@ -33,7 +33,7 @@ My own programming lenguage
    - NOT logico: `!`
 
 7. Condizioni condizionali:
-   - If-else if-else:
+   - If, else if, else:
      ```
      if (condizione) {
          # codice da eseguire se la condizione è vera
@@ -67,7 +67,7 @@ My own programming lenguage
      ```
 
 9. Array:
-   - Dichiarazione: `var tipo[] nomeArray = [elemento1, elemento2, ...];`
+   - Dichiarazione: `var tipo[] nomeArray = {elemento1, elemento2, ...}`
    - Accesso agli elementi: `nomeArray[indice]`
 
 10. Funzioni:
@@ -99,8 +99,8 @@ My own programming lenguage
     - Esempio: `inp: numeroMele, prezzoUnitario :`
 
 15. Variabili booleane:
-    - Dichiarazione: `bool nomeVariabile;`
-    - Assegnazione: `nomeVariabile = true;` o `nomeVariabile = false;`
+    - Dichiarazione: `bool nomeVariabile`
+    - Assegnazione: `nomeVariabile = true;` o `nomeVariabile = false`
 
 16. Commenti:
     - Commento su una riga: `# Questo è un commento su una riga`
@@ -124,8 +124,8 @@ My own programming lenguage
 # Sintassi del Linguaggio di Programmazione
 
 1. Dichiarazione delle variabili:
-   - Dichiarazione con tipo esplicito: `tipoVariabile nomeVariabile;`
-   - Dichiarazione con assegnazione: `tipoVariabile nomeVariabile = valore;`
+   - Dichiarazione con tipo esplicito: `tipoVariabile nomeVariabile`
+   - Dichiarazione con assegnazione: `tipoVariabile nomeVariabile = valore`
 
 2. Operatori aritmetici:
    - Addizione: `+`
@@ -153,45 +153,45 @@ My own programming lenguage
    - If-else: 
      ```
      if (condizione) {
-         // blocco di codice se la condizione è vera
+         # blocco di codice se la condizione è vera
      } else {
-         // blocco di codice se la condizione è falsa
+         # blocco di codice se la condizione è falsa
      }
      ```
    - Else-if: 
      ```
      if (condizione1) {
-         // blocco di codice se la condizione1 è vera
+         # blocco di codice se la condizione1 è vera
      } else if (condizione2) {
-         // blocco di codice se la condizione2 è vera
+         # blocco di codice se la condizione2 è vera
      } else {
-         // blocco di codice se nessuna delle condizioni è vera
+         # blocco di codice se nessuna delle condizioni è vera
      }
      ```
 
 6. Cicli:
    - Ciclo for:
      ```
-     for (inizializzazione; condizione; incremento/decremento) {
-         // blocco di codice da eseguire
+     for (inizializzazione, condizione, incremento/decremento) {
+         # blocco di codice da eseguire
      }
      ```
    - Ciclo while:
      ```
      while (condizione) {
-         // blocco di codice da eseguire
+         # blocco di codice da eseguire
      }
      ```
    - Ciclo do-while:
      ```
      do {
-         // blocco di codice da eseguire
-     } while (condizione);
+         # blocco di codice da eseguire
+     } while (condizione)
      ```
 
 7. Array:
-   - Dichiarazione: `tipoVariabile[] nomeArray = {valore1, valore2, ...};`
-   - Accesso agli elementi: `nomeArray[indice];`
+   - Dichiarazione: `tipoVariabile[] nomeArray = {valore1, valore2, ...}`
+   - Accesso agli elementi: `nomeArray[indice]`
 
 8. Manipolazione delle stringhe:
    - Concatenazione: `concatenation(stringa1, stringa2)`
@@ -214,8 +214,8 @@ My own programming lenguage
     - Esempio: `inp : nomeVariabile :`
 
 11. Variabili booleane:
-    - Dichiarazione: `bool nomeVariabile;`
-    - Assegnazione: `nomeVariabile = true/false;`
+    - Dichiarazione: `bool nomeVariabile`
+    - Assegnazione: `nomeVariabile = true/false`
 
 12. Commenti:
     - Commento su una riga: `# commento su una riga`
