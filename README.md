@@ -107,8 +107,8 @@ My own programming lenguage
     - Commento su più righe:
       ```
       #
-      # Questo è un commento
-      # su più righe
+      Questo è un commento
+      su più righe
       #
       ```
 
