@@ -4,12 +4,12 @@ My own programming lenguage
 
 ## Features del linguaggio:
 1. Dichiarazione e assegnazione delle variabili:
-   - Sintassi: `var nomeVariabile = valore;`
-   - Esempio: `var numeroMele = 5;`
+   - Sintassi: `var nomeVariabile = valore`
+   - Esempio: `var numeroMele = 5`
 
 2. Tipizzazione dinamica delle variabili:
-   - Sintassi: `var tipo nomeVariabile;`
-   - Esempio: `var int numeroMele;`
+   - Sintassi: `var tipo nomeVariabile`
+   - Esempio: `var int numeroMele`
 
 3. Operatori aritmetici:
    - Addizione: `+`
@@ -47,7 +47,7 @@ My own programming lenguage
 8. Cicli di iterazione:
    - Ciclo for:
      ```
-     for (inizializzazione; condizione; iterazione) {
+     for (inizializzazione, condizione, iterazione) {
          # corpo del ciclo
      }
      ```
