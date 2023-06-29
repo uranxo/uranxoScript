@@ -36,11 +36,11 @@ My own programming lenguage
    - If-else if-else:
      ```
      if (condizione) {
-         // codice da eseguire se la condizione è vera
+         # codice da eseguire se la condizione è vera
      } else if (altraCondizione) {
-         // codice da eseguire se la condizione è falsa e l'altra condizione è vera
+         # codice da eseguire se la condizione è falsa e l'altra condizione è vera
      } else {
-         // codice da eseguire se tutte le condizioni precedenti sono false
+         # codice da eseguire se tutte le condizioni precedenti sono false
      }
      ```
 
@@ -48,22 +48,22 @@ My own programming lenguage
    - Ciclo for:
      ```
      for (inizializzazione; condizione; iterazione) {
-         // corpo del ciclo
+         # corpo del ciclo
      }
      ```
 
    - Ciclo while:
      ```
      while (condizione) {
-         // corpo del ciclo
+         # corpo del ciclo
      }
      ```
 
    - Ciclo do-while:
      ```
      do {
-         // corpo del ciclo
-     } while (condizione);
+         # corpo del ciclo
+     } while (condizione)
      ```
 
 9. Array:
@@ -74,7 +74,7 @@ My own programming lenguage
     - Dichiarazione e definizione:
       ```
       func nomeFunzione(parametri) {
-          // corpo della funzione
+          # corpo della funzione
           return valore;
       }
       ```
