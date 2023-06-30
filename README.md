@@ -1,5 +1,4 @@
 # uranxoScript
-My own programming lenguage
 # Specifiche del linguaggio di programmazione
 
 ## Features del linguaggio:
