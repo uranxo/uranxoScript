@@ -1,4 +1,4 @@
-# uranxoScript
+# uranxoScript (concept)
 # Specifiche del linguaggio di programmazione
 
 ## Features del linguaggio:
